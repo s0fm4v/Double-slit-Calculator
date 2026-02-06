@@ -1,4 +1,4 @@
-Copyright (c) 2026 Sofia Mavrogiorgou
+Copyright (c) 2026 s0fm4v
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
