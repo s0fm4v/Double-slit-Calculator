@@ -39,7 +39,7 @@ scipy
 
 You can install dependencies with:
 
-pip install numpy matplotlib scipy cv2
+pip install numpy matplotlib scipy opencv-python
 
 ## Executing Program
 
