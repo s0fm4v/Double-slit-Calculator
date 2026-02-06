@@ -26,6 +26,9 @@ Providing a digital tool for learning wave physics
 Making experimental data analysis more accessible
 
 Helping students visualize and understand wave interference
+
+# Report
+Find the full report (research, experiment) on the files tab: "Technology as a way to achieve quality education within a quantum physics course"
 # Getting Started
 ## Dependencies
 Libraries:
@@ -42,6 +45,7 @@ pip install numpy matplotlib scipy cv2
 
 For Version 0.1 (Initial Version) run program in google colab.
 https://colab.google/
+Can also be found on the files tab
 # Help
 
 For any bugs/problems, contact me on Discord (@soph11aaa._)
@@ -52,4 +56,4 @@ For any bugs/problems, contact me on Discord (@soph11aaa._)
 
 # Licence
 
-This project is licensed under the BSD 3-Clause License License - see the LICENSE.md file for details
+This project is licensed under the BSD 3-Clause License - see the LICENSE.md file for details
