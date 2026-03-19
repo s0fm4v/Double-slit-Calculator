@@ -51,8 +51,11 @@ Can also be found on the files tab
 For any bugs/problems, contact me on Discord (@soph11aaa._)
 # Version History
 
-* 0.1
+* 1.1
   * Initial Release
+* 1.2
+  * Updated Code/Fixed Bugs 
+
 
 # Licence
 
